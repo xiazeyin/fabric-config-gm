@@ -11,10 +11,10 @@ import (
 	"errors"
 	"fmt"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	pb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
-	"gitee.com/zhaochuninhefei/gmgo/x509"
 	"github.com/golang/protobuf/proto"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	pb "github.com/xiazeyin/fabric-protos-go-gm/peer"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 // Application is a copy of the orderer configuration with the addition of an anchor peers

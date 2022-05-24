@@ -2,7 +2,7 @@ fabric-config-gm
 ==============
 
 基于`github.com/hyperledger/fabric-config`的main分支`d7ad7b31`版本，提供了gm相关对应扩展：
-- 使用国密库`gitee.com/zhaochuninhefei/gmgo`
+- 使用国密库`github.com/xiazeyin/gmgo`
 
 
 # 版权声明

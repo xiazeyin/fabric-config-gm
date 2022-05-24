@@ -11,16 +11,16 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/commonext"
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/ledger/rwsetext"
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/mspext"
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/ordererext"
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/peerext"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/ledger/rwset"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/orderer"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/commonext"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/ledger/rwsetext"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/mspext"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/ordererext"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/peerext"
+	"github.com/xiazeyin/fabric-protos-go-gm/common"
+	"github.com/xiazeyin/fabric-protos-go-gm/ledger/rwset"
+	"github.com/xiazeyin/fabric-protos-go-gm/msp"
+	"github.com/xiazeyin/fabric-protos-go-gm/orderer"
+	"github.com/xiazeyin/fabric-protos-go-gm/peer"
 
 	. "github.com/onsi/gomega"
 )

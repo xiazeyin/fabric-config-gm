@@ -9,7 +9,7 @@ package membership
 import (
 	"crypto"
 
-	"gitee.com/zhaochuninhefei/gmgo/x509"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 // KeyInfo represents a (secret) key that is either already stored

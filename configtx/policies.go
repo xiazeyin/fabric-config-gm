@@ -12,10 +12,10 @@ import (
 	"strconv"
 	"strings"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/configtx/internal/policydsl"
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-config-gm/configtx/internal/policydsl"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
 )
 
 // getPolicies returns a map of Policy from given map of ConfigPolicy in organization config group.

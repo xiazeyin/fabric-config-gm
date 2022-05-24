@@ -13,11 +13,11 @@ import (
 	"fmt"
 	"io"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	"gitee.com/zhaochuninhefei/gmgo/sm2"
-	"gitee.com/zhaochuninhefei/gmgo/x509"
 	"github.com/golang/protobuf/proto"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
+	"github.com/xiazeyin/gmgo/sm2"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 // SigningIdentity is an MSP Identity that can be used to sign configuration

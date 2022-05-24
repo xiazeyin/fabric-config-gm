@@ -9,9 +9,9 @@ package peerext
 import (
 	"fmt"
 
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/ledger/rwset"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-protos-go-gm/ledger/rwset"
+	"github.com/xiazeyin/fabric-protos-go-gm/peer"
 )
 
 type ChaincodeProposalPayload struct {

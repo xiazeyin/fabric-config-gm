@@ -15,12 +15,12 @@ import (
 	"reflect"
 	"time"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/configtx/orderer"
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	ob "gitee.com/zhaochuninhefei/fabric-protos-go-gm/orderer"
-	eb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/orderer/etcdraft"
-	"gitee.com/zhaochuninhefei/gmgo/x509"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-config-gm/configtx/orderer"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	ob "github.com/xiazeyin/fabric-protos-go-gm/orderer"
+	eb "github.com/xiazeyin/fabric-protos-go-gm/orderer/etcdraft"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 const (

@@ -11,10 +11,10 @@ import (
 	"errors"
 	"fmt"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	"gitee.com/zhaochuninhefei/gmgo/x509"
 	"github.com/golang/protobuf/proto"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 // Consortium is a group of non-orderer organizations used in channel transactions.

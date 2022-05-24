@@ -9,8 +9,8 @@ package commonext
 import (
 	"testing"
 
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-protos-go-gm/common"
 
 	. "github.com/onsi/gomega"
 )

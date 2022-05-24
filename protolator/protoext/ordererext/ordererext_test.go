@@ -7,8 +7,8 @@ SPDX-License-Identifier: Apache-2.0
 package ordererext_test
 
 import (
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator"
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/protoext/ordererext"
+	"github.com/xiazeyin/fabric-config-gm/protolator"
+	"github.com/xiazeyin/fabric-config-gm/protolator/protoext/ordererext"
 )
 
 // ensure structs implement expected interfaces

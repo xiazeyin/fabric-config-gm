@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"fmt"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
 	"github.com/golang/protobuf/proto"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
 )
 
 // Compute computes the difference between two *cb.Configs and returns the

@@ -9,9 +9,9 @@ package rwsetext
 import (
 	"fmt"
 
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/ledger/rwset"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/ledger/rwset/kvrwset"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-protos-go-gm/ledger/rwset"
+	"github.com/xiazeyin/fabric-protos-go-gm/ledger/rwset/kvrwset"
 )
 
 type TxReadWriteSet struct{ *rwset.TxReadWriteSet }

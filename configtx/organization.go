@@ -9,10 +9,10 @@ package configtx
 import (
 	"fmt"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	pb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
 	"github.com/golang/protobuf/proto"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
+	pb "github.com/xiazeyin/fabric-protos-go-gm/peer"
 )
 
 // newOrgConfigGroup returns an config group for an organization.

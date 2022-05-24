@@ -15,12 +15,12 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/configtx/membership"
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	"gitee.com/zhaochuninhefei/gmgo/sm2"
-	"gitee.com/zhaochuninhefei/gmgo/x509"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-config-gm/configtx/membership"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
+	"github.com/xiazeyin/gmgo/sm2"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 // MSP is the configuration information for a Fabric MSP.

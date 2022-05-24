@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"testing"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator/testprotos"
 	"github.com/golang/protobuf/proto"
+	"github.com/xiazeyin/fabric-config-gm/protolator/testprotos"
 
 	. "github.com/onsi/gomega"
 )

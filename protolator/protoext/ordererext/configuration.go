@@ -9,12 +9,12 @@ package ordererext
 import (
 	"fmt"
 
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/orderer"
-	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/orderer/etcdraft"
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/empty"
+	"github.com/xiazeyin/fabric-protos-go-gm/common"
+	"github.com/xiazeyin/fabric-protos-go-gm/msp"
+	"github.com/xiazeyin/fabric-protos-go-gm/orderer"
+	"github.com/xiazeyin/fabric-protos-go-gm/orderer/etcdraft"
 )
 
 type DynamicOrdererGroup struct {

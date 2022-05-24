@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 package orderer
 
 import (
-	"gitee.com/zhaochuninhefei/gmgo/x509"
+	"github.com/xiazeyin/gmgo/x509"
 )
 
 const (

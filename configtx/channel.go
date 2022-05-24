@@ -9,7 +9,7 @@ package configtx
 import (
 	"fmt"
 
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
 )
 
 // ChannelGroup encapsulates the parts of the config that control channels.

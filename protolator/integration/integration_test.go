@@ -11,12 +11,12 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"gitee.com/zhaochuninhefei/fabric-config-gm/protolator"
-	cb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/common"
-	mb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/msp"
-	pb "gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
 	"github.com/golang/protobuf/proto"
 	. "github.com/onsi/gomega"
+	"github.com/xiazeyin/fabric-config-gm/protolator"
+	cb "github.com/xiazeyin/fabric-protos-go-gm/common"
+	mb "github.com/xiazeyin/fabric-protos-go-gm/msp"
+	pb "github.com/xiazeyin/fabric-protos-go-gm/peer"
 )
 
 func bidirectionalMarshal(t *testing.T, doc proto.Message) {

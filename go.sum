@@ -31,14 +31,6 @@ cloud.google.com/go/storage v1.6.0/go.mod h1:N7U0C8pVQ/+NIKOBQyamJIeKQKkZ+mxpohl
 cloud.google.com/go/storage v1.8.0/go.mod h1:Wv1Oy7z6Yz3DshWRJFhqM/UCfaWIRTdp0RXyy7KQOVs=
 cloud.google.com/go/storage v1.10.0/go.mod h1:FLPqc6j+Ki4BU591ie1oL6qBQGu2Bl/tZ9ullr3+Kg0=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
-gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1 h1:3SLYH6k5a/eDA3p2uxhSTGxT6h85VjPai/0NoHHSC6E=
-gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1/go.mod h1:cAEwQ9OO7YY3kJ4hqkLVhtk8j+y0etmvll3ZwOf044E=
-gitee.com/zhaochuninhefei/gmgo v0.0.8/go.mod h1:toMA93O2xt6VLnd7An85Iy7+RSJ4jhf1sVOBTU8zZ50=
-gitee.com/zhaochuninhefei/gmgo v0.0.14 h1:2bJfSqejJCBkHkC7I5GGnP/z0MJGfmTIJXeHY935+dc=
-gitee.com/zhaochuninhefei/gmgo v0.0.14/go.mod h1:0mFThdQpNf6i86qjCXmJl6qUpu2+7L4peNatsRtm8rE=
-gitee.com/zhaochuninhefei/zcgolog v0.0.7/go.mod h1:aHkHxJFyxmDBHbRxeIcKYuAYVUzneXzyfqbjKMdEgLc=
-gitee.com/zhaochuninhefei/zcgolog v0.0.14 h1:B04r2JPUH712BtBa+oVWe5SGR0wWPghEUFhHxANcvbk=
-gitee.com/zhaochuninhefei/zcgolog v0.0.14/go.mod h1:aHkHxJFyxmDBHbRxeIcKYuAYVUzneXzyfqbjKMdEgLc=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible h1:1G1pk05UrOh0NlF1oeaaix1x8XzrfjIDK47TY0Zehcw=
@@ -239,6 +231,12 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/xiazeyin/fabric-protos-go-gm v0.0.0-20220524081341-f40c99473c61 h1:cJkPK30gk/fW2L0AzcdJwVi/dl4jD4eb7Y3T2sSfxGU=
+github.com/xiazeyin/fabric-protos-go-gm v0.0.0-20220524081341-f40c99473c61/go.mod h1:ap8lXSeDbbVOuAhTy76m13liD1I9uCCtFOCmz31pqK4=
+github.com/xiazeyin/gmgo v0.0.0-20220524080332-30d9ca7379fe h1:lEdUyyBNEeUQpTfairjzszYA/5bKMpr/uHNoYVrjpdE=
+github.com/xiazeyin/gmgo v0.0.0-20220524080332-30d9ca7379fe/go.mod h1:rTCk42ta+5VGbueaQ2PjI0xOefI15MGg8K8lzwPYHPU=
+github.com/xiazeyin/zcgolog v0.0.0-20220524064633-5ef357e6e1b9 h1:rs1SJCC2pnCIfHCALgaFfMyGJh6jMVVGPHMcNyicUUg=
+github.com/xiazeyin/zcgolog v0.0.0-20220524064633-5ef357e6e1b9/go.mod h1:E4KSZv3WjrjwtYJuDLFzaav95TohWGok8HAuXswAP0k=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
